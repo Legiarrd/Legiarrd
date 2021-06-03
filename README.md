@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Felix!
+
 23 y.o. • German 🇩🇪 • software developer 💻
 
 - 🧡 TypeScript, JavaScript, Vue.js, Ionic
