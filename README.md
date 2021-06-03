@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Felix!
+23 y.o. • German 🇩🇪 • software developer 💻
+
+- 🧡 TypeScript, JavaScript, Vue.js, Ionic
+
 <!--
 **Legiarrd/Legiarrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
