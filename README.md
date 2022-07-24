@@ -4,7 +4,7 @@ I'm Felix!
 
 23 y.o. • German 🇩🇪 • software developer 💻
 
-- 🧡 TypeScript, JavaScript, Vue.js, Ionic
+- 🧡 Nuxt.JS, Vue.JS, TailwindCSS, TypeScript
 
 <!--
 **Legiarrd/Legiarrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
