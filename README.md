@@ -2,7 +2,7 @@
 
 I'm Felix!
 
-23 y.o. • German 🇩🇪 • software developer 💻
+24 y.o. • German 🇩🇪 • software developer 💻
 
 ![❤️](https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,bootstrap,html,css,js,ts,nodejs,git,vscode)
 
