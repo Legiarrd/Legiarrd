@@ -6,6 +6,8 @@ I'm Felix!
 
 [![wakatime](https://wakatime.com/badge/user/3afc724c-584e-4135-a091-81163b0e5ae4.svg)](https://wakatime.com/@3afc724c-584e-4135-a091-81163b0e5ae4)
 
+![](https://www.codewars.com/users/Legiarrd/badges/large)
+
 ![❤️](https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,bootstrap,html,css,js,ts,nodejs,git,vscode)
 
 <!--
