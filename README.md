@@ -2,7 +2,7 @@
 
 I'm Felix!
 
-25 y.o. • German 🇩🇪 • software developer 💻
+26 y.o. • German 🇩🇪 • software developer 💻
 
 [![wakatime](https://wakatime.com/badge/user/3afc724c-584e-4135-a091-81163b0e5ae4.svg)](https://wakatime.com/@3afc724c-584e-4135-a091-81163b0e5ae4)
 
